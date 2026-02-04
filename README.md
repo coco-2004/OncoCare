@@ -94,9 +94,4 @@ Integration with a web-based UI
 
 ---
 
-### Final check ✔
-- Aligned with your **resume skills**
-- No fake healthcare claims
-- No deep learning exaggeration
-- Interview-defendable line by line
 
